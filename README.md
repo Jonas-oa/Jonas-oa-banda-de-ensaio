@@ -18,6 +18,8 @@ Primeiro marco funcional:
 - armazenamento local em IndexedDB;
 - PWA e fluxo de publicação no GitHub Pages.
 
+A compilação de produção foi validada localmente antes da publicação do código.
+
 ## Como testar
 
 ```bash
